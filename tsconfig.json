@@ -5,7 +5,11 @@
     "moduleResolution": "Bundler",
     "strict": true,
     "noEmit": true,
+    "lib": ["ES2022"],
     "types": ["@cloudflare/workers-types"]
   },
   "include": ["src/**/*.ts"]
 }
+
+
+//765f2805-6a7e-4b03-8884-79040db35419
